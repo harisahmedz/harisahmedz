@@ -18,7 +18,6 @@
 		return Karachi_Pakistan()
 	
 	def Ambitions():
-		LearnNewFramework()
 		Writebugfreecode()	
  ```
 ## 🌐 Socials:
